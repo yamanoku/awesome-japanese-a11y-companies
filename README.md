@@ -1,4 +1,4 @@
-# awesome-japanese-a11y-company
+# awesome-japanese-a11y-companies
 Webアクセシビリティに取り組む・推進している日本のテクノロジー企業まとめ
 
 ## Company List
