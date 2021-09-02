@@ -1,20 +1,20 @@
 # awesome-japanese-a11y-company
 Webアクセシビリティに取り組む・推進している日本のテクノロジー企業まとめ
 
-## List
+## Company List
 
-<table>
-  <tr>
-    <th>企業名
-    <th>事例紹介
-    <th>説明(etc)
-  </tr>
-  <tr>
-    <td>
-    <td>
-    <td>
-  </tr>
-</table>
+- あ行
+- か行
+- さ行
+- た行
+- な行
+- は行
+- ま行
+- や行
+- ら行
+- わ行
+- アルファベット
+- 数字
 
 ## Contributing
 Pull request 歓迎しています。以下の条件を満たしていれば、積極的にマージします。
