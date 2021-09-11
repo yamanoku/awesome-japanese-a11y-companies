@@ -16,7 +16,8 @@ Webアクセシビリティに取り組む・推進している日本のテク�
 1. [アルファベット（A-Z）](https://github.com/yamanoku/awesome-japanese-a11y-companies/blob/fb382027d5c27e38701b58f58d734b038287852d/company-list/11_A-Z.md)
 
 ## Contributing
-Pull request 歓迎しています。以下の条件を満たしていれば、積極的にマージします。
+このリポジトリは @yamanoku が随時追加しておりますが、Pull request も歓迎しています。
+以下の条件を満たしていれば、積極的にマージします。
 
 - 日本に拠点がある
 - テクノロジー企業である
