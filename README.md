@@ -24,7 +24,7 @@
 - アクセシビリティに取り組んでいることが分かる事例（アクセシビリティ方針、事業サービス、チーム、記事リンク等）
 
 ## Thanks
-[remote-in-japan](https://github.com/yamanoku/paternity-leave-in-japan) を参考にしています。
+[remote-in-japan](https://github.com/remote-jp/remote-in-japan) を参考にしています。
 
 ## References
 
