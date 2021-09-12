@@ -26,5 +26,12 @@
 ## Thanks
 [remote-in-japan](https://github.com/yamanoku/paternity-leave-in-japan) を参考にしています。
 
+## References
+
+参考にした資料一覧
+
+- [accrefs - Webアクセシビリティの参考資料まとめ](https://accrefs.jp/)
+- [Webアクセシビリティ/まとめ/Webアクセシビリティの取り組みをしているところ](https://esa-pages.io/p/sharing/15175/posts/517/3ed6b81d36d20138c0d4.html)
+
 ## Contact
 [Okuto Oyama](mailto:0910yama@gmail.com)
