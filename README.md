@@ -1,7 +1,7 @@
-# awesome-japanese-a11y-companies
+# Awesome japanese a11y companies
 アクセシビリティに取り組む・推進している日本のテクノロジー企業まとめ（随時更新）
 
-## Company List
+## 企業一覧（五十音順、アルファベット順）
 
 1. [あ行](https://github.com/yamanoku/awesome-japanese-a11y-companies/blob/main/company-list/01_%E3%81%82.md)
 1. [か行](https://github.com/yamanoku/awesome-japanese-a11y-companies/blob/main/company-list/02_%E3%81%8B.md)
@@ -15,7 +15,7 @@
 1. [わ行](https://github.com/yamanoku/awesome-japanese-a11y-companies/blob/main/company-list/10_%E3%82%8F.md)
 1. [アルファベット（A-Z）](https://github.com/yamanoku/awesome-japanese-a11y-companies/blob/main/company-list/11_A-Z.md)
 
-## Contributing
+## 貢献
 このリポジトリは [@yamanoku](https://github.com/yamanoku) が随時追加しておりますが、Pull request も歓迎しています。
 以下の条件を満たしていれば、積極的にマージします。
 
@@ -25,15 +25,16 @@
 
 なお日本での企業内容を扱う都合、Pull request では基本的に日本語でやり取りしていただけるようお願いします。
 
-## Thanks
+## 謝辞
+
 [remote-in-japan](https://github.com/remote-jp/remote-in-japan) を参考にしています。
 
-## References
+## 参考
 
 参考にした資料一覧
 
 - [accrefs - Webアクセシビリティの参考資料まとめ](https://accrefs.jp/)
 - [Webアクセシビリティ/まとめ/Webアクセシビリティの取り組みをしているところ](https://esa-pages.io/p/sharing/15175/posts/517/3ed6b81d36d20138c0d4.html)
 
-## Contact
-[Okuto Oyama](mailto:0910yama@gmail.com)
+## 連絡先
+[大山奥人](mailto:0910yama@gmail.com)
