@@ -25,7 +25,7 @@
   - アクセシビリティ自体の紹介や技術に触れてみた個人の取り組みのものついては含めません
   - [勉強記事や登壇資料を取り扱うかの是非について](https://github.com/yamanoku/awesome-japanese-a11y-companies/discussions/7)
 
-なお日本での企業内容を扱う都合、Pull request では基本的に日本語でやり取りしていただけるようお願いします。
+なお日本での企業内容を扱う都合、Issue や Pull request では基本的に日本語でやり取りしていただけるようお願いします。
 
 ## 謝辞
 
