@@ -12,7 +12,6 @@
 1. [ま行](https://github.com/yamanoku/awesome-japanese-a11y-companies/blob/main/company-list/07_%E3%81%BE.md)
 1. [や行](https://github.com/yamanoku/awesome-japanese-a11y-companies/blob/main/company-list/08_%E3%82%84.md)
 1. [ら行](https://github.com/yamanoku/awesome-japanese-a11y-companies/blob/main/company-list/09_%E3%82%89.md)
-1. [わ行](https://github.com/yamanoku/awesome-japanese-a11y-companies/blob/main/company-list/10_%E3%82%8F.md)
 1. [アルファベット（A-Z）](https://github.com/yamanoku/awesome-japanese-a11y-companies/blob/main/company-list/11_A-Z.md)
 
 ## 貢献
