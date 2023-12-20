@@ -34,7 +34,6 @@
 参考にした資料一覧
 
 - [accrefs - Webアクセシビリティの参考資料まとめ](https://accrefs.jp/)
-- [Webアクセシビリティ/まとめ/Webアクセシビリティの取り組みをしているところ](https://esa-pages.io/p/sharing/15175/posts/517/3ed6b81d36d20138c0d4.html)
 
 ## 連絡先
 [大山奥人](mailto:0910yama@gmail.com)
