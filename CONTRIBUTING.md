@@ -72,11 +72,17 @@ Awesome japanese a11y companiesへ貢献する際に参考となるガイドで�
 
 掲載する内容にそぐわない場合はプルリクエストをクローズする可能性もあります。その点ご了承ください。
 
-## 取り扱う言語について
+## 取り扱う言語について / Language
 
 管理人（[@yamanoku](https://github.com/yamanoku)）が日本人であることと、日本での企業内容を扱う都合、イシューやプルリクエストでは基本的に日本語でやり取りできるようお願いします。
 
-日本語を扱うのが難しい場合は、オンライン翻訳ツールを利用して日本語で対応いただけることが望ましいです。
+日本語を扱うのが難しい場合は、オンライン翻訳ツールを利用して日本語に変換していただけることが望ましいです。
+
+---
+
+Please note that the administrator ([@yamanoku](https://github.com/yamanoku)) is Japanese and that we deal with corporate content in Japan, communicate in Japanese for issues and pull requests.
+
+If you have difficulty dealing with Japanese, it is preferable that you use an online translation tool to convert your work into Japanese.
 
 ## 連絡について
 
