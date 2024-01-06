@@ -1,0 +1,20 @@
+name: 追加リクエスト用テンプレート
+description: 企業事例の追加リクエストを送るときに利用してください。
+title: "「株式会社XXXX」のアクセシビリティ事例を追加する"
+labels: [事例を追加する]
+assignees: yamanoku
+body:
+  - type: input
+    id: input-1
+    attributes:
+      label: 企業名
+      description: 追加する事例の企業名を入力してください
+    validations:
+      required: true
+  - type: textarea
+    id: textarea-1
+    attributes:
+      label: 追加事例の個別URL（パーマリンク）、タイトル
+      description: 追加事例の個別URLを入力してください。併せてURLタイトルも入力してください。
+    validations:
+      required: true
