@@ -1,6 +1,6 @@
-# コントリビューションガイド
+# 貢献に関するガイド
 
-Awesome japanese a11y companiesへ貢献（コントリビュート）する際に参考となるガイドです。
+Awesome japanese a11y companiesへ貢献する際に参考となるガイドです。
 
 ## 事例の受け入れ条件
 
