@@ -1,7 +1,7 @@
 # Awesome japanese a11y companies
 アクセシビリティに取り組む・推進している日本企業まとめ（随時更新）
 
-<img src="assets/images/awesome-japanese-a11y-companies-logo.png" alt="Awesome japanese a11y companies ロゴ画像">
+<img src="assets/images/awesome-japanese-a11y-companies-logo.png" alt="Awesome japanese a11y companies ロゴ画像" width="200" height="200">
 
 ## 企業一覧（五十音順、アルファベット順）
 
