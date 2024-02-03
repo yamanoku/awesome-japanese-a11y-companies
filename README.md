@@ -1,6 +1,8 @@
 # Awesome japanese a11y companies
 アクセシビリティに取り組む・推進している日本企業まとめ（随時更新）
 
+<img src="https://github.com/yamanoku/awesome-japanese-a11y-companies/blob/c97b95741960206da6f27937391f7839d26c3848/awesome-japanese-a11y-companies-logo.svg" alt="Awesome japanese a11y companies ロゴ画像">
+
 ## 企業一覧（五十音順、アルファベット順）
 
 1. [あ行](https://github.com/yamanoku/awesome-japanese-a11y-companies/blob/main/company-list/01_%E3%81%82.md)
