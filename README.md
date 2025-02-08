@@ -15,6 +15,7 @@
 1. [や行](https://github.com/yamanoku/awesome-japanese-a11y-companies/blob/main/company-list/08_%E3%82%84.md)
 1. [ら行](https://github.com/yamanoku/awesome-japanese-a11y-companies/blob/main/company-list/09_%E3%82%89.md)
 1. [アルファベット（A-Z）](https://github.com/yamanoku/awesome-japanese-a11y-companies/blob/main/company-list/11_A-Z.md)
+1. [数字（0-9）](https://github.com/yamanoku/awesome-japanese-a11y-companies/blob/main/company-list/12_0-9.md)
 
 ## 貢献
 このリポジトリは [@yamanoku](https://github.com/yamanoku) が随時追加しておりますが、Pull request も歓迎しています。
