@@ -1,0 +1,42 @@
+{
+  "name": "awesome-japanese-a11y-companies-mcp-server",
+  "version": "0.1.0",
+  "description": "MCP server for searching Japanese companies' accessibility information",
+  "type": "module",
+  "main": "src/index.ts",
+  "scripts": {
+    "build-data": "tsx scripts/build-data.ts",
+    "dev": "npm run build-data && wrangler dev",
+    "deploy": "npm run build-data && wrangler deploy",
+    "start": "npm run build-data && wrangler dev",
+    "typecheck": "tsc --noEmit",
+    "lint": "biome check",
+    "lint:fix": "biome check --write",
+    "format": "biome format --write",
+    "test": "vitest",
+    "test:ci": "vitest run",
+    "cf-typegen": "wrangler types"
+  },
+  "keywords": ["mcp", "accessibility", "a11y", "japanese"],
+  "author": "yamanoku",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yamanoku/awesome-japanese-a11y-companies/mcp"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.12.1",
+    "agents": "^0.0.95",
+    "glob": "^11.0.2"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "1.9.4",
+    "@cloudflare/workers-types": "^4.20250607.0",
+    "@types/node": "^22.15.30",
+    "tsx": "^4.19.4",
+    "typescript": "^5.8.3",
+    "vitest": "^3.2.2",
+    "wrangler": "^4.19.1",
+    "zod": "3.25.56"
+  }
+}
