@@ -1,0 +1,22 @@
+{
+  "name": "awesome-japanese-a11y-companies-mcp",
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "minify": true,
+  "compatibility_flags": ["nodejs_compat"],
+  "durable_objects": {
+    "bindings": [
+      {
+        "name": "MCP_OBJECT",
+        "class_name": "A11yJaCompaniesMCPServer",
+        "script_name": "awesome-japanese-a11y-companies-mcp"
+      }
+    ]
+  },
+  "migrations": [
+    {
+      "tag": "v1",
+      "new_sqlite_classes": ["A11yJaCompaniesMCPServer"]
+    }
+  ]
+}
