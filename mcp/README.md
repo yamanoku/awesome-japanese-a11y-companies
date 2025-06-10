@@ -49,7 +49,7 @@
 }
 ```
 
-### Claude Deskutopでの設定
+### Claude Desktopでの設定
 
 Claude Pro, Max, Team, EnterpriseプランのユーザーはClaude Desktopアプリの「Custom Integrations」からURLを設定し、再起動することで使用できるようになります。
 
