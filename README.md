@@ -3,6 +3,11 @@
 
 <img src="assets/images/awesome-japanese-a11y-companies-logo.png" alt="Awesome japanese a11y companies ロゴ画像" width="200" height="200">
 
+> [!IMPORTANT]
+> 2026/06/18 更新
+> 
+> このリポジトリは現在管理人であるyamanokuの追加更新作業が滞っておりますが、情報提供に関するIssueやPRは引き続き受けております。アクセシビリティに取り組んでいる事例がありましたら[貢献に関するガイド](./CONTRIBUTING.md)を参考に情報提供お待ちしております。
+
 ## 企業一覧（五十音順、アルファベット順）
 
 1. [あ行](https://github.com/yamanoku/awesome-japanese-a11y-companies/blob/main/company-list/01_%E3%81%82.md)
