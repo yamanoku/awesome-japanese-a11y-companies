@@ -22,6 +22,11 @@
 1. [アルファベット（A-Z）](https://github.com/yamanoku/awesome-japanese-a11y-companies/blob/main/company-list/11_A-Z.md)
 1. [数字（0-9）](https://github.com/yamanoku/awesome-japanese-a11y-companies/blob/main/company-list/12_0-9.md)
 
+## ツール
+
+- [MCP サーバー](./tools/mcp/) — 企業・事例の検索MCPサーバー
+- [事例ジャンル分け](./tools/typesafe-ai-categories/) — TypeSafe AI による分類
+
 ## 貢献
 このリポジトリは [@yamanoku](https://github.com/yamanoku) が随時追加しておりますが、Pull request も歓迎しています。
 以下の条件を満たしていれば、積極的にマージします。

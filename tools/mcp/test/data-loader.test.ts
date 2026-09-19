@@ -1,4 +1,5 @@
 import { beforeEach, describe, expect, it, vi } from "vitest";
+
 import { DataLoader } from "../src/data-loader";
 
 vi.mock("../src/companies-data", () => ({

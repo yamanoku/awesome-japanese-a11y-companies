@@ -1,4 +1,5 @@
 import { readFile } from "node:fs/promises";
+
 import type { Case, Company } from "./types.js";
 
 export async function parseMarkdownFile(filePath: string): Promise<Company[]> {

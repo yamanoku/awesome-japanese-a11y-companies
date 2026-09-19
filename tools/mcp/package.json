@@ -4,15 +4,18 @@
   "description": "MCP server for searching Japanese companies' accessibility information",
   "type": "module",
   "main": "src/index.ts",
+  "engines": {
+    "node": ">=24"
+  },
   "scripts": {
     "build-data": "tsx scripts/build-data.ts",
     "dev": "npm run build-data && wrangler dev",
     "deploy": "npm run build-data && wrangler deploy",
     "start": "npm run build-data && wrangler dev",
-    "typecheck": "tsgo --noEmit",
-    "lint": "biome check",
-    "lint:fix": "biome check --write",
-    "format": "biome format --write",
+    "typecheck": "tsc --noEmit",
+    "lint": "oxlint && oxfmt --check",
+    "lint:fix": "oxlint --fix && oxfmt",
+    "format": "oxfmt",
     "test": "vitest",
     "test:ci": "vitest run",
     "cf-typegen": "wrangler types"
@@ -26,7 +29,7 @@
   "author": "yamanoku",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yamanoku/awesome-japanese-a11y-companies/mcp"
+    "url": "https://github.com/yamanoku/awesome-japanese-a11y-companies/tools/mcp"
   },
   "license": "MIT",
   "dependencies": {
@@ -35,11 +38,12 @@
     "glob": "^11.0.2"
   },
   "devDependencies": {
-    "@biomejs/biome": "1.9.4",
     "@cloudflare/workers-types": "^4.20250607.0",
-    "@types/node": "^22.15.30",
-    "@typescript/native-preview": "7.0.0-dev.20250608.1",
+    "@types/node": "24.13.6",
+    "oxfmt": "0.68.0",
+    "oxlint": "1.83.0",
     "tsx": "^4.19.4",
+    "typescript": "7.0.2",
     "vitest": "^3.2.2",
     "wrangler": "^4.19.1",
     "zod": "3.25.56"
