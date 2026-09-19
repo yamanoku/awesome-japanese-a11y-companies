@@ -1,7 +1,9 @@
 import { rm, writeFile } from "node:fs/promises";
 import { join } from "node:path";
-import { describe, expect, it } from "vitest";
-import { parseMarkdownFile } from "../src/parser";
+
+import { afterEach, describe, expect, it } from "vitest";
+
+import { flattenCases, parseMarkdownFile } from "../src/parser";
 
 describe("parseMarkdownFile", () => {
   const testFile = join(__dirname, "test-companies.md");
@@ -59,5 +61,24 @@ describe("parseMarkdownFile", () => {
     await writeFile(testFile, content, "utf-8");
     const companies = await parseMarkdownFile(testFile);
     expect(companies).toHaveLength(0);
+  });
+});
+
+describe("flattenCases", () => {
+  it("adds companyName to each case", () => {
+    const flattened = flattenCases([
+      {
+        name: "株式会社テスト",
+        cases: [{ title: "事例", url: "https://example.com" }],
+      },
+    ]);
+
+    expect(flattened).toEqual([
+      {
+        title: "事例",
+        url: "https://example.com",
+        companyName: "株式会社テスト",
+      },
+    ]);
   });
 });

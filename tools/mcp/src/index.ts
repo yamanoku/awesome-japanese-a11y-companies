@@ -1,8 +1,9 @@
 import { McpServer } from "@modelcontextprotocol/sdk/server/mcp.js";
 import { McpAgent } from "agents/mcp";
 import { z } from "zod";
-import { DataLoader } from "./data-loader.js";
+
 import PackageJSON from "../package.json";
+import { DataLoader } from "./data-loader.js";
 
 export class A11yJaCompaniesMCPServer extends McpAgent<Cloudflare.Env> {
   private dataLoader: DataLoader;

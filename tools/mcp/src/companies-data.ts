@@ -41,6 +41,15 @@ export const companiesData = [
     ]
   },
   {
+    "name": "Classi株式会社",
+    "cases": [
+      {
+        "title": "視覚障害者の声から始まったtetoruのアクセシビリティ改善の取り組み - Classi開発者ブログ",
+        "url": "https://tech.classi.jp/entry/2025/07/24/120811"
+      }
+    ]
+  },
+  {
     "name": "合同会社DMM.com",
     "cases": [
       {
@@ -256,6 +265,15 @@ export const companiesData = [
     ]
   },
   {
+    "name": "株式会社LegalOn Technologies",
+    "cases": [
+      {
+        "title": "すべての⼈が使えるプロダクトへ ─ CDOとデザインマネージャーが語る、アクセシビリティ本格始動の理由｜LegalOn Now",
+        "url": "https://now.legalontech.jp/n/n8fbb2b8e5453"
+      }
+    ]
+  },
+  {
     "name": "株式会社LIFULL",
     "cases": [
       {
@@ -370,6 +388,19 @@ export const companiesData = [
       {
         "title": "ep.171『AIでアクセシビリティ向上を身近に！社内ツールから始めるLINEギフトのalt充足化への取り組み』 | UIT INSIDE",
         "url": "https://uit-inside.linecorp.com/episode/171"
+      },
+      {
+        "title": "ウェブアクセシビリティ方針｜LINEヤフー株式会社",
+        "url": "https://www.lycorp.co.jp/ja/company/accessibility-statement/"
+      }
+    ]
+  },
+  {
+    "name": "株式会社Liquitous",
+    "cases": [
+      {
+        "title": "Liquitousとアクセシビリティ",
+        "url": "https://note.com/liquitous/n/nb42b5e2b483e"
       }
     ]
   },
@@ -864,6 +895,10 @@ export const companiesData = [
       {
         "title": "アクセシビリティを考慮した階層構造のフォームUIをどう実現したか - SmartHR Tech Blog",
         "url": "https://tech.smarthr.jp/entry/2025/04/10/141135"
+      },
+      {
+        "title": "デザインシステムでA11y品質が担保できなかった「3つの理由」 - Google スライド",
+        "url": "https://docs.google.com/presentation/d/1hEoFqfJfDWL-Xv2h9uLEVWky_XNwewoGHY0J2VVNAlw/edit?usp=sharing"
       }
     ]
   },
@@ -1032,6 +1067,15 @@ export const companiesData = [
       {
         "title": "ラクス、WEBアクセシビリティへの取り組みを強化～「よりよく、寄り添う」サービス提供を目指して～",
         "url": "https://www.rakus.co.jp/news/2024/0603.html"
+      }
+    ]
+  },
+  {
+    "name": "楽天カード株式会社",
+    "cases": [
+      {
+        "title": "楽天カードのアクセシビリティ｜Rakuten Card Designs",
+        "url": "https://note.com/cwd_note/n/n203776e39f00"
       }
     ]
   },
@@ -1227,6 +1271,10 @@ export const companiesData = [
         "title": "YUMEMI Accessibility Guidelines | YUMEMI Accessibility Guidelines",
         "url": "https://yumemi-inc.github.io/accessibility-guidelines/",
         "description": "[YUMEMI Accessibility Guidelinesのβ版を公開しました！｜ygkn](https://note.com/ygkn/n/n4334c64127a6)"
+      },
+      {
+        "title": "ゆめみのアクセシビリティガイドラインを「作って終わり」にしないために、私たちがやったこと｜RuiOkazaki",
+        "url": "https://note.com/ruiokazaki/n/n0397a3c84373"
       }
     ]
   },
@@ -1301,6 +1349,11 @@ export const companiesData = [
       {
         "title": "「誰でも使える」ように、アクセシビリティ向上に向けて取り組んだこと｜株式会社メドレー",
         "url": "https://note.com/medley/n/ncf100214f838"
+      },
+      {
+        "title": "ジョブメドレーのアクセシビリティ向上の取り組みと、「プロジェクトをやりきる」文化 ++ Gaji-Labo Inc.",
+        "url": "https://www.gaji.jp/case-studies/interviews/medley",
+        "description": "株式会社Gaji-Laboのアクセシビリティ向上プロジェクト支援に伴う企業インタビュー"
       }
     ]
   },
@@ -1635,6 +1688,10 @@ export const companiesData = [
       {
         "title": "ウェブアクセシビリティ改善に向けた取り組み〜試験結果公開〜 | クラウドサイン | 国内シェアNo.1の電子契約サービス",
         "url": "https://www.cloudsign.jp/info/20240508_information/"
+      },
+      {
+        "title": "アクセシビリティの新卒研修を実施しました - 弁護士ドットコム株式会社 Creators’ blog",
+        "url": "https://creators.bengo4.com/entry/2025/12/02/000000"
       }
     ]
   },
@@ -1994,6 +2051,14 @@ export const companiesData = [
       {
         "title": "2024年、Amebaのアクセシビリティを振り返る | CyberAgent Developers Blog",
         "url": "https://developers.cyberagent.co.jp/blog/archives/52682/"
+      },
+      {
+        "title": "【新機能】画像の代替テキスト(alt)を自動で追加できるようになりました | Amebaスタッフブログ",
+        "url": "https://ameblo.jp/staff/entry-12918607543.html"
+      },
+      {
+        "title": "2025年、AmebaLIFEのアクセシビリティを振り返る | CyberAgent Developers Blog",
+        "url": "https://developers.cyberagent.co.jp/blog/archives/60518/"
       }
     ]
   },
@@ -2487,6 +2552,15 @@ export const companiesData = [
       {
         "title": "「特務機関NERV防災」アプリ、アクセシビリティ機能を大幅強化 │ゲヒルン株式会社",
         "url": "https://www.gehirn.co.jp/news/2022-09-01/press-nervapp/"
+      }
+    ]
+  },
+  {
+    "name": "コネヒト株式会社",
+    "cases": [
+      {
+        "title": "コネヒトのウェブアクセシビリティに関する取り組み - コネヒト開発者ブログ",
+        "url": "https://tech.connehito.com/entry/2025/12/08/133802"
       }
     ]
   },

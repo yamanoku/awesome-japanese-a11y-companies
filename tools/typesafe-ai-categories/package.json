@@ -1,0 +1,38 @@
+{
+  "name": "awesome-japanese-a11y-companies-genre-tool",
+  "version": "0.1.0",
+  "description": "Classify company-list accessibility cases into genres with TypeSafe-AI",
+  "type": "module",
+  "private": true,
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "start": "tsx src/index.ts",
+    "classify": "tsx src/index.ts",
+    "typecheck": "tsc --noEmit",
+    "lint": "oxlint && oxfmt --check",
+    "lint:fix": "oxlint --fix && oxfmt",
+    "format": "oxfmt",
+    "test": "vitest",
+    "test:ci": "vitest run"
+  },
+  "keywords": [
+    "accessibility",
+    "a11y",
+    "typesafe-ai"
+  ],
+  "author": "yamanoku",
+  "license": "MIT",
+  "dependencies": {
+    "@typesafe-ai/sdk": "^0.6.0"
+  },
+  "devDependencies": {
+    "@types/node": "24.13.6",
+    "oxfmt": "0.68.0",
+    "oxlint": "1.83.0",
+    "tsx": "^4.19.4",
+    "typescript": "7.0.2",
+    "vitest": "^3.2.2"
+  }
+}

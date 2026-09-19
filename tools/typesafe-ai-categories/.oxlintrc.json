@@ -1,0 +1,14 @@
+{
+  "$schema": "./node_modules/oxlint/configuration_schema.json",
+  "ignorePatterns": ["output/**", ".cache/**"],
+  "categories": {
+    "correctness": "error"
+  },
+  "rules": {
+    "no-console": "off",
+    "no-debugger": "off",
+    "typescript/no-confusing-void-expression": "off",
+    "typescript/no-explicit-any": "off",
+    "typescript/no-non-null-assertion": "off"
+  }
+}

@@ -9,14 +9,14 @@
       {
         "name": "MCP_OBJECT",
         "class_name": "A11yJaCompaniesMCPServer",
-        "script_name": "awesome-japanese-a11y-companies-mcp"
-      }
-    ]
+        "script_name": "awesome-japanese-a11y-companies-mcp",
+      },
+    ],
   },
   "migrations": [
     {
       "tag": "v1",
-      "new_sqlite_classes": ["A11yJaCompaniesMCPServer"]
-    }
-  ]
+      "new_sqlite_classes": ["A11yJaCompaniesMCPServer"],
+    },
+  ],
 }

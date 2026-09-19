@@ -1,14 +1,16 @@
 import { writeFile } from "node:fs/promises";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
+
 import { glob } from "glob";
+
 import { parseMarkdownFile } from "../src/parser.js";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
 async function buildData() {
-  const rootDir = join(__dirname, "..", "..");
+  const rootDir = join(__dirname, "..", "..", "..");
   const pattern = join(rootDir, "company-list", "*.md");
   const files = await glob(pattern);
 
